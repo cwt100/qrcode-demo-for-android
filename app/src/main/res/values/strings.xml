@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCodeDemo</string>
+
+    <!--  UI String  -->
+    <string name="btn_camera">Use camera</string>
+    <string name="btn_gallery">Use gallery</string>
+</resources>
