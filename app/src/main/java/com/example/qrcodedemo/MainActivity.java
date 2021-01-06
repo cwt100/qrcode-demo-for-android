@@ -53,8 +53,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // TODO: 2021/1/6 test commit 
-
         initUI();
     }
 
